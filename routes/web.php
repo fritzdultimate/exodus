@@ -14,3 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 Route::get('/send/newsletter/v1/r', [App\Http\Controllers\HomeController::class, 'newsletter'])->name('newsletter');
 Route::get('/', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Route::get('/mail/sending/t', function () {
+    return view('guest.mail');
+});

@@ -86,7 +86,11 @@
             <trix-editor class="trixy" input="x"></trix-editor>
         
             <div id="submit" class="">
-                <input type="submit" id="contact-submit" class="btn btn-default submit-button" value="Send Message">
+                <input type="submit" id="contact-submit" class="btn btn-default submit-button send" value="Send Message">
+            </div>
+
+            <div id="submit" class="">
+                <input style="display: none" disabled type="submit" id="contact-submit" class="btn btn-default submit-button sending" value="Sending...">
             </div>
         </form>
        
@@ -126,16 +130,22 @@
                         }
                     },
                     submitHandler: function(form) {
+                        document.getElementsByClassName('send')[0].style.display = 'none';
+                        document.getElementsByClassName('sending')[0].style.display = '';
                         $(form).ajaxSubmit({
                             type:"POST",
                             data: $(form).serialize(),
                             url:"/app/admin/newsletter",
                             success: function() {
+                                document.getElementsByClassName('sending')[0].style.display = 'none';
+                                document.getElementsByClassName('send')[0].style.display = '';
                                 alert('success');
                                 $(".contact-form").resetForm();
                                 $(".success").slideDown("slow");
                             },
                             error: function() {
+                                document.getElementsByClassName('sending')[0].style.display = 'none';
+                                document.getElementsByClassName('send')[0].style.display = '';
                                 alert('error');
                                 $(".error").slideDown("slow");
                             }
