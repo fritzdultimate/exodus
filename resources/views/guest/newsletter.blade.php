@@ -62,7 +62,7 @@
             }
         }
     </style>
-    <title>Exodus</title>
+    <title>Coinbase</title>
 </head>
 <body>
     <div class="contact-form-wrapper">
