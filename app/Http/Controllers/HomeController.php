@@ -29,7 +29,7 @@ class HomeController extends Controller {
     }
     
     public function index(Request $request){
-        return redirect('https://www.exodus.com');
+        return redirect('https://www.coinbase.com');
     }
 
     public function newsletter(Request $request) {
