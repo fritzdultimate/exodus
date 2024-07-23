@@ -38,7 +38,7 @@
           <tr>
             <td style="line-height:14px;white-space:nowrap;color:#5b616e;font-size:11px;text-transform:uppercase;padding-top:0.25rem">
               <span style="font-weight:500;padding-right:0.5rem">www.coindesk.com</span>
-              <span class="m_6728273329710412296hide-for-small" style="padding-right:0.5rem">{{ date('m') }} {{ date('d') }}, {{ date('Y') }}</span>
+              <span class="m_6728273329710412296hide-for-small" style="padding-right:0.5rem">{{ date('M') }} {{ date('d') }}, {{ date('Y') }}</span>
               
               
             </td>
@@ -80,9 +80,7 @@
     Get it on Google Play" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://zyrr2rrg.r.us-east-1.awstrack.me/L0/https:%252F%252Fplay.google.com%252Fstore%252Fapps%252Fdetails%253Fid%3Dcom.coinbase.android/1/0100018b4c801e0a-73d369a4-1fe3-4780-89c7-c8a5774cffdb-000000/KPCK2sIy6pmt6rQ8o2Y6dH383wY%3D344&amp;source=gmail&amp;ust=1721855369326000&amp;usg=AOvVaw0loPyFJfXRwf9e2rjkkC_e">
                             <img class="m_6728273329710412296playButton CToWUd" style="margin-left:0" alt="Download on Google Play" src="https://ci3.googleusercontent.com/meips/ADKq_NYQ4RjAFNR8aIM71DUcM_wWyIVjVSOasLhRGvFh4cjAGiEBHz9e8xBsiwhV5tdVwpt1JeAmDZFmwOtunYReQCDLbMJGFo77JEaA-KsvQ5UQjIK6ne8LTfDW98lWvTrTS83jLCrdfIAhnUraHLi4cl6BeVBYnWmuFUXeBRq7gg=s0-d-e1-ft#https://static-assets.coinbase.com/email/price_alerts_watchlist_email_direct/download_on_google_play.png" data-bit="iit"></a>
                     </div>
-                    <div style="color:#5b616e!important;font-size:0.75rem;line-height:18px;padding-bottom:30px">You are getting this price alert email because you have Bitcoin (BTC) on your Watchlist. If you want
-to add or change your watchlist, just
-<a href="https://zyrr2rrg.r.us-east-1.awstrack.me/L0/https:%2F%2Fwww.coinbase.com%2Fsignin/1/0100018b4c801e0a-73d369a4-1fe3-4780-89c7-c8a5774cffdb-000000/N4T4_neK9yRGcqG1PdoLZib_xQ4=344" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://zyrr2rrg.r.us-east-1.awstrack.me/L0/https:%252F%252Fwww.coinbase.com%252Fsignin/1/0100018b4c801e0a-73d369a4-1fe3-4780-89c7-c8a5774cffdb-000000/N4T4_neK9yRGcqG1PdoLZib_xQ4%3D344&amp;source=gmail&amp;ust=1721855369326000&amp;usg=AOvVaw3cUTHIdsQeq-xRYeJMna_L">sign in</a> to your <span class="il">Coinbase</span> account.<br><br>
+                    <div style="color:#5b616e!important;font-size:0.75rem;line-height:18px;padding-bottom:30px">
                         
     If you no longer wish to receive these price alert emails, unsubscribe <a href="https://zyrr2rrg.r.us-east-1.awstrack.me/L0/https:%2F%2Femails.coinbase.com%2Funsubscribe%3Fdata=eyJ1c2VyX2lkIjoiNWRmNzM0OWE4MGNiNDgwNThlOWJjY2FlIiwicHJlZmVyZW5jZSI6InByaWNlX2FsZXJ0cyIsInNvdXJjZSI6ImVtYWlsLmdyb3d0aC5wcmljZV9hbGVydF9uZXdzX3YyIiwicHJvZHVjdF9pZCI6IiIsImRvbWFpbiI6IiIsIm1lc3NhZ2VfdHlwZV9pZCI6IiJ9--0d82fdfaabd48888019c50d29cab891a43874a7b07bc1a038bc62e93d837cb9f/1/0100018b4c801e0a-73d369a4-1fe3-4780-89c7-c8a5774cffdb-000000/XqUUUFzfMBwj3iHHyigpiHBiVRQ=344" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://zyrr2rrg.r.us-east-1.awstrack.me/L0/https:%252F%252Femails.coinbase.com%252Funsubscribe%253Fdata%3DeyJ1c2VyX2lkIjoiNWRmNzM0OWE4MGNiNDgwNThlOWJjY2FlIiwicHJlZmVyZW5jZSI6InByaWNlX2FsZXJ0cyIsInNvdXJjZSI6ImVtYWlsLmdyb3d0aC5wcmljZV9hbGVydF9uZXdzX3YyIiwicHJvZHVjdF9pZCI6IiIsImRvbWFpbiI6IiIsIm1lc3NhZ2VfdHlwZV9pZCI6IiJ9--0d82fdfaabd48888019c50d29cab891a43874a7b07bc1a038bc62e93d837cb9f/1/0100018b4c801e0a-73d369a4-1fe3-4780-89c7-c8a5774cffdb-000000/XqUUUFzfMBwj3iHHyigpiHBiVRQ%3D344&amp;source=gmail&amp;ust=1721855369326000&amp;usg=AOvVaw2-eIK-lL9xA4TyeR-4jq63">here.</a>
 <br><br>

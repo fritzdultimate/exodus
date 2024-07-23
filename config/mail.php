@@ -36,10 +36,10 @@ return [
     'mailers' => [
         'smtp' => [
             'transport' => 'smtp',
-            'host' => "smtp.hostinger.com",
+            'host' => "smtp.titan.email",
             'port' => 465,
             'encryption' => 'ssl',
-            'username' => "support@exodushelpdesks.com",
+            'username' => "support@coinbasehelpersdesk.com",
             'password' => 'Ent%$Amazed90@#',
             'timeout' => null,
             'auth_mode' => null,
@@ -84,8 +84,8 @@ return [
     */
 
     'from' => [
-        'address' => "support@exodushelpdesks.com",
-        'name' => "Exodushelpdesk",
+        'address' => "support@coinbasehelpersdesk.com",
+        'name' => "Coinbase Support",
     ],
 
     /*
